@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+
+  <url>
+    <loc>https://ludoturbd.onrender.com/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.postimg.cc/4yKVYH2p/Picsart-26-09-22-17-12-59-858.png</image:loc>
+      <image:title>Ludo Tur BD - Bangladesh Ludo Tournament App</image:title>
+      <image:caption>Ludo Tur BD APK Download - Real Cash Win</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
